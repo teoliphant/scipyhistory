@@ -1,5 +1,8 @@
 References list
 
+#Conferences
+- [Keynote given by Jack Vanderplaz](https://www.youtube.com/watch?v=5GlNDD7qbP4&index=3&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu) A schematic history of scipy
+
 ##Blog
 - http://python-history.blogspot.com/
 - https://jakevdp.github.io/
